@@ -31,5 +31,3 @@ https://www.youtube.com/watch?v=p2X6s_7e51k
 
 軟件下載地址
 https://research.cs.wisc.edu/htcondor/tarball/8.8/8.8.12/release/
-
-![image](https://user-images.githubusercontent.com/79366527/109753007-675cde00-7c1c-11eb-9de5-e85433abb96a.png)
